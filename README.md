@@ -1,4 +1,5 @@
 # Discord Badges Finder
+This project helps to find any user, in any guilds / friends your account encountered at least once, badges such as Early Supporter or Early Verified Bot Developer.
 
 ### Setup
 ```bash
